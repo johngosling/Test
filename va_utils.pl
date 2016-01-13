@@ -1,4 +1,4 @@
-
+ 
 sub va_do_matching(){
 	my $scoresref=shift;
 	my ($i,$napps,$matchlist,$matchscore,@apprids);
