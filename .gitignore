@@ -1,0 +1,85 @@
+#################
+## Log files etc
+#################
+commreps*.txt
+credit*.txt
+usage*.txt
+swap*.txt
+repsent*.txt
+psytech*.txt
+*.log
+
+#######################################
+## 'OLD' files, experimental files, etc
+#######################################
+
+*OLD*.*
+*PRIOR*.*
+z*.*
+aaa*.*
+*.cgi
+*.doc
+
+####################
+## Mustn't overwrite
+####################
+debug.txt
+where_am_i.txt
+
+##############################
+## JG's additional directories
+##############################
+Backup*/
+FTPTest/
+Log files/
+Old*/
+z*/
+
+##########################
+## System temp directories
+##########################
+pdftmp
+
+##############################
+## Directories to be updated manually
+##############################
+helptext
+
+########################
+## Unwanted graphic files
+########################
+*.psp
+
+
+########################
+## Dev application files
+########################
+*.pbp
+
+##############
+## Other files
+##############
+*.xls
+*.xlsx
+*.zip
+*.ttf
+*.TTF
+
+#############
+## Windows detritus
+#############
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac crap
+.DS_Store
+
+

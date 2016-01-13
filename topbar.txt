@@ -1,0 +1,23 @@
+
+
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+	function openhelp(){newwin=window.open('/pfshelp.htm','helpwindow','width=800,height=600,scrollbars=yes,resizable=yes');newwin.focus();}
+//-->
+</SCRIPT>
+
+<TABLE cellspacing=0 align=center cellpadding=0 width=<!--width-->>
+  <TR><TD valign=middle align=left width=<!--width--> height=74><img src="<!--pfslogo-->"></TD></TR>
+</TABLE>
+
+
+<TABLE align=center width=758 cellspacing=0 cellpadding=0 class="lines8" align=left border=0>
+<TR><TD valign=middle align=Right width=758 height=30>
+	<IMG class=logo src="/commadminimages/help.gif" onClick='javascript:void(openhelp())'> 
+</TD></TR>
+</TABLE>
+
+<TABLE align=center width=<!--width--> cellspacing=0 cellpadding=0 class="lines4" align=left border=0>
+<TR><TD width=<!--width-->>
+<!-- Body section starts here -->
+
